@@ -1,2 +1,2 @@
 # github-demo
-line 1 in READMI.md
+line 1 in README.md
